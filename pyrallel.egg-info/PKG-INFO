@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyrallel
+Version: 1.0
+Summary: Simple interface to create parallel scripts using python
+Home-page: github.com/smilefreak/pyrallel
+Author: James Boocock
+Author-email: james.boocock@otago.ac.nz
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

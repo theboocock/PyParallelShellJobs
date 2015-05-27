@@ -1,0 +1,7 @@
+setup.py
+pyrallel/__init__.py
+pyrallel.egg-info/PKG-INFO
+pyrallel.egg-info/SOURCES.txt
+pyrallel.egg-info/dependency_links.txt
+pyrallel.egg-info/not-zip-safe
+pyrallel.egg-info/top_level.txt
